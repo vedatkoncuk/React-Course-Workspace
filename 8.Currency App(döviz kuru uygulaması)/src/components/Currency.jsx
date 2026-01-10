@@ -24,6 +24,7 @@ function Currency() {
             <option>TL</option>
             <option>USD</option>
             <option>EUR</option>
+            <option>EuRo</option>
           </select>
           <input type="number" className='amount' />
         </div>
