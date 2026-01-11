@@ -25,6 +25,7 @@ function Currency() {
             <option>USD</option>
             <option>EUR</option>
             <option>EuRo</option>
+            <option>whoan</option>
           </select>
           <input type="number" className='amount' />
         </div>
