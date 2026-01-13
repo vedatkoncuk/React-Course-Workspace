@@ -28,6 +28,7 @@ function Currency() {
             <option>whoan</option>
             <option>china</option>
             <option>rupi</option>
+            <option>wuhan</option>
           </select>
           <input type="number" className='amount' />
         </div>
