@@ -30,6 +30,7 @@ function Currency() {
             <option>rupi</option>
             <option>wuhan</option>
             <option>riyal</option>
+            <option>lari</option>
           </select>
           <input type="number" className='amount' />
         </div>
